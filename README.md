@@ -51,7 +51,7 @@ This keylogger is designed for Windows operating systems, as it uses Windows-spe
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](#) if you want to contribute.
+Contributions, issues, and feature requests are welcome.
 
 ## License
 
