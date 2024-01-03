@@ -1,4 +1,4 @@
-# Keylogger in C++
+# Keylogger in Cpp
 
 This repository contains the source code for a simple keylogger written in C++. The keylogger, when executed, records keystrokes and stores them into a file named `Data.txt`. This project is intended for educational purposes and should be used responsibly.
 
